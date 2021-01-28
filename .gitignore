@@ -1,0 +1,4 @@
+# excluding file lists
+*.json
+*.h5
+*.hdf5
