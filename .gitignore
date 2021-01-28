@@ -2,3 +2,5 @@
 *.json
 *.h5
 *.hdf5
+brain_tumor_classifier_nn.ipynb
+brain_tumor_classifier_cnn.ipynb
